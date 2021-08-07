@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import RenderRocMapPage from './Pages/RocMap';
+//import App from './App';
+import RenderRocMapPage from './Pages/RocMapPage/index.js';
 
 ReactDOM.render(
   <div>
-     <RenderRocMapPage />
+     {/* <RenderRocMapPage/> */}
+     <RenderRocMapPage/>
+     
   </div>
   ,
   document.getElementById('root')
