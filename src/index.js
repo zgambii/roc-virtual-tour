@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-//import App from './App';
+//import NavigationBar from './NavigationBar';
 import RenderRocMapPage from './Pages/RocMapPage/index.js';
 
 ReactDOM.render(
